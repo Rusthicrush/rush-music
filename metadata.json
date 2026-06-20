@@ -1,0 +1,6 @@
+{
+  "name": "Rush music",
+  "description": "An offline music player named Rush music featuring a peaceful night sky aesthetic, glassmorphism design, star particles, offline playback, local music scanner, equalizer, sleep timer, lyrics viewer, and custom mood playlists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
